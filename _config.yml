@@ -1,12 +1,12 @@
 # Site settings
-name: 董小姐
-location: 大连
+name: luhan
+location: 金华
 company: IBM
-position: Java开发工程师
+position: 网络工程师
 github: https://github.com/
 facebook: https://www.facebook.com/
-phone: 1580424XXXX
-email: xxxx@xxx.com
+phone: 13188888888
+email: 444354123@qq.com 
 
 baseurl: "/resume.io"
 
